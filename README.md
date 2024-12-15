@@ -1,5 +1,3 @@
-# my-dashboard
-
 # User Dashboard
 
 This is a Next.js CRUD dashboard using Tailwind CSS.
